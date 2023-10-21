@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohammd%20Muzammil/Documents/GitHub/mlflow/mlruns/573777646604742202/0d3127a8682e4a37b1dd6495d23f2c88/artifacts
+end_time: 1697730525065
+entry_point_name: ''
+experiment_id: '573777646604742202'
+lifecycle_stage: active
+run_id: 0d3127a8682e4a37b1dd6495d23f2c88
+run_name: Hyperparameter Tuning 2
+run_uuid: 0d3127a8682e4a37b1dd6495d23f2c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697730521833
+status: 3
+tags: []
+user_id: Mohammd Muzammil

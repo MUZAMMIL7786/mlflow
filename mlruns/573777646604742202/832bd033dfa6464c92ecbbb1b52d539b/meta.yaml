@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Mohammd%20Muzammil/Documents/GitHub/mlflow/mlruns/573777646604742202/832bd033dfa6464c92ecbbb1b52d539b/artifacts
+deleted_time: 1697730404675
+end_time: 1697730234616
+entry_point_name: ''
+experiment_id: '573777646604742202'
+lifecycle_stage: deleted
+run_id: 832bd033dfa6464c92ecbbb1b52d539b
+run_name: first_run
+run_uuid: 832bd033dfa6464c92ecbbb1b52d539b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697730230741
+status: 3
+tags: []
+user_id: Mohammd Muzammil
